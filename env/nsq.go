@@ -1,0 +1,6 @@
+package env
+
+const (
+	ENV_NSQ_ENDPOINT  = "ANT_ENV_NSQ_ENDPOINT"
+	ENV_NSQ_SVC_TOPIC = "ANT_ENV_NSQ_SVC_TOPIC"
+)
